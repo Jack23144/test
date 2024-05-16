@@ -18,7 +18,7 @@ RewriteRule . /test/index.php [L]
 # دستورالعمل‌های (خطوط) بین "BEGIN Simply Static" و "END Simply Static"
 # به طور پویا تولید شده‌اند، و فقط باید به وسیلهٔ صافی‌های وردرپرس ویرایش شوند.
 # هر تغییری در دستورالعمل‌های بین این نشان‌گرها بازنویشی خواهند شد.
-<Files "C:\xampp\htdocs\test/wp-content/uploads\simply-static\52b5da4014bcd121a9cc1af15aea666f-debug.txt">
+<Files "C:\xampp\htdocs\test/wp-content/uploads\simply-static\9aac570b8d139edffa393136d976a89a-debug.txt">
 require all denied
 require host localhost
 </Files>
